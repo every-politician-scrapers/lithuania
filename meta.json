@@ -1,0 +1,15 @@
+{
+    "cabinet": {
+      "id": "Q101558001",
+      "start": "2020-12-11"
+    },
+    "source": {
+        "url":   "https://lrv.lt/en/about-government/ministers",
+        "title": "Ministers | My Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/lithuania-cabinet"
+}
