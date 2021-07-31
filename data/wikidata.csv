@@ -1,16 +1,16 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q395152,Agnė Bilotaitė,Agnė Bilotaitė,female,1982-01-29T00:00:00Z,11,,Q107735730,Minister of the Interior,Q395152-2C0877CE-55CB-4B51-873B-CE2AE6980EED
-Q3672207,Arvydas Anušauskas,Arvydas Anušauskas,male,1963-09-29T00:00:00Z,11,,Q107735746,Minister of National Defence,Q3672207-07678B0B-6EE4-4E0D-AEDE-89B8B5C98EF4
-Q61387734,Arūnas Dulkys,Arūnas Dulkys,male,1972-10-28T00:00:00Z,11,,Q25707086,Minister of Health,Q61387734-72edc931-458d-042b-9164-d472c9819db2
-Q27808316,Aušrinė Armonaitė,Aušrinė Armonaitė,female,1989-05-26T00:00:00Z,11,,Q107735812,Minister of Economy and Innovation,Q27808316-F1B100A9-B579-4B00-A39A-489DC221ACCC
-Q1157636,Dainius Kreivys,Dainius Kreivys,male,1970-04-08T00:00:00Z,11,,Q107735806,Minister of Energy,Q1157636-08A197F8-1557-4D63-AEED-446B8AC62D15
-Q100435418,Evelina Dobrovolska,Evelina Dobrovolska,female,1988-08-16T00:00:00Z,11,,Q107735748,Minister of Justice,Q100435418-621F676E-FDD9-40B4-8B82-D680E7B41DD4
-Q17118365,Gabrielius Landsbergis,Gabrielius Landsbergis,male,1982-01-07T00:00:00Z,11,,Q25894090,Minister of Foreign Affairs,Q17118365-4255e15b-42b3-be87-d559-40a27e36e31a
-Q27833521,Gintarė Skaistė,Gintarė Skaistė,female,1981-08-04T00:00:00Z,11,,Q107735756,Minister of Finance,Q27833521-4696B876-3406-4FE4-994D-207D87996ED7
+Q395152,Agnė Bilotaitė,Agnė Bilotaitė,female,1982-01-29T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735730,Minister of the Interior,Q395152-2C0877CE-55CB-4B51-873B-CE2AE6980EED
+Q3672207,Arvydas Anušauskas,Arvydas Anušauskas,male,1963-09-29T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735746,Minister of National Defence,Q3672207-07678B0B-6EE4-4E0D-AEDE-89B8B5C98EF4
+Q61387734,Arūnas Dulkys,Arūnas Dulkys,male,1972-10-28T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q25707086,Minister of Health,Q61387734-72edc931-458d-042b-9164-d472c9819db2
+Q27808316,Aušrinė Armonaitė,Aušrinė Armonaitė,female,1989-05-26T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735812,Minister of Economy and Innovation,Q27808316-F1B100A9-B579-4B00-A39A-489DC221ACCC
+Q1157636,Dainius Kreivys,Dainius Kreivys,male,1970-04-08T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735806,Minister of Energy,Q1157636-08A197F8-1557-4D63-AEED-446B8AC62D15
+Q100435418,Evelina Dobrovolska,Evelina Dobrovolska,female,1988-08-16T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735748,Minister of Justice,Q100435418-621F676E-FDD9-40B4-8B82-D680E7B41DD4
+Q17118365,Gabrielius Landsbergis,Gabrielius Landsbergis,male,1982-01-07T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q25894090,Minister of Foreign Affairs,Q17118365-4255e15b-42b3-be87-d559-40a27e36e31a
+Q27833521,Gintarė Skaistė,Gintarė Skaistė,female,1981-08-04T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735756,Minister of Finance,Q27833521-4696B876-3406-4FE4-994D-207D87996ED7
 Q437096,Ingrida Šimonytė,Ingrida Šimonytė,female,1974-11-15T00:00:00Z,11,,Q845439,Prime Minister of Lithuania,Q437096-6a9e2cb8-4787-ead7-d03a-2ab8fa6e44f7
-Q101429324,Jurgita Šiugždinienė,Jurgita Šiugždinienė,female,1972-03-01T00:00:00Z,11,,Q107735809,"Minister of Education, Science and Sport",Q101429324-FA00A814-1BB7-4B98-AFC9-084FEFAB6A04
-Q27977538,Kęstutis Navickas,Kęstutis Navickas,male,1970-06-13T00:00:00Z,11,,Q107735817,Minister of Agriculture,Q27977538-9981FBCC-B7E7-41CA-A4C1-9C8F5895ECB2
-Q47237500,Marius Skuodis,Marius Skuodis,male,1985-08-09T00:00:00Z,11,,Q107735740,Minister of Transport and Communications,Q47237500-86474654-5C1C-4540-BDA8-3F5946F55CFB
-Q27537109,Monika Navickienė,Monika Navickienė,female,1981-06-25T00:00:00Z,11,,Q107735743,Minister of Social Security and Labour,Q27537109-8C19362E-03DD-4D58-B1B5-67C1D4376A48
-Q27577960,Simonas Gentvilas,Simonas Gentvilas,male,1984-09-28T00:00:00Z,11,,Q107735803,Minister of Environment,Q27577960-C53069B9-426E-4820-8890-513255DC30D4
-Q16472414,Simonas Kairys,Simonas Kairys,male,1984-04-19T00:00:00Z,11,,Q107735814,Minister of Culture,Q16472414-630AE36C-9D37-493E-8AAE-CC349CD3C431
+Q101429324,Jurgita Šiugždinienė,Jurgita Šiugždinienė,female,1972-03-01T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735809,"Minister of Education, Science and Sport",Q101429324-FA00A814-1BB7-4B98-AFC9-084FEFAB6A04
+Q27977538,Kęstutis Navickas,Kęstutis Navickas,male,1970-06-13T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735817,Minister of Agriculture,Q27977538-9981FBCC-B7E7-41CA-A4C1-9C8F5895ECB2
+Q47237500,Marius Skuodis,Marius Skuodis,male,1985-08-09T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735740,Minister of Transport and Communications,Q47237500-86474654-5C1C-4540-BDA8-3F5946F55CFB
+Q27537109,Monika Navickienė,Monika Navickienė,female,1981-06-25T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735743,Minister of Social Security and Labour,Q27537109-8C19362E-03DD-4D58-B1B5-67C1D4376A48
+Q27577960,Simonas Gentvilas,Simonas Gentvilas,male,1984-09-28T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735803,Minister of Environment,Q27577960-C53069B9-426E-4820-8890-513255DC30D4
+Q16472414,Simonas Kairys,Simonas Kairys,male,1984-04-19T00:00:00Z,11,https://lrv.lt/en/about-government/ministers,Q107735814,Minister of Culture,Q16472414-630AE36C-9D37-493E-8AAE-CC349CD3C431
