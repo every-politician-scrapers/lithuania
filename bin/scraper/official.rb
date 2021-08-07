@@ -19,9 +19,7 @@ class MemberList
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      # PM not listed on site, so include manually
-      [{ name: 'Ingrida Šimonytė', position: 'Prime Minister of Lithuania' }] +
-        container.map { |member| fragment(member => Member).to_h }
+      container.map { |member| fragment(member => Member).to_h }
     end
 
     private
