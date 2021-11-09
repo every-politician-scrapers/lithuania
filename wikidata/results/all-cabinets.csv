@@ -1,0 +1,20 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q1967622,Prunskienė Cabinet,1990-03-17,11,,,1991-01-10,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1967379,Šimėnas Cabinet,1991-01-10,11,,,1991-12-13,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1844896,Vagnorius Cabinet I,1991-12-13,11,,,1992-07-21,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1383198,Abišala Cabinet,1992-07-21,11,,,1992-11-26,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1383230,Lubys Cabinet,1992-12-02,11,,,1993-03-10,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1203712,Šleževičius Cabinet,1993-03-10,11,,,1996-02-08,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1591509,Stankevičius Cabinet,1996-03-19,11,,,1996-12-10,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1193346,Vagnorius II Cabinet,1996-12-10,11,,,1999-05-04,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1193353,Paksas I Cabinet,1999-06-01,11,,,1999-11-11,11,,,Q29078891,Cabinet of Lithuania,,,,,,,,,,
+,Q1103668,Kubilius I Cabinet,1999-11-11,11,,,2000-11-09,11,,,Q29078891,Cabinet of Lithuania,,,,,Q1027495,Paksas II Cabinet,,,,
+,Q1027495,Paksas II Cabinet,2000-11-08,11,,,2001-07-12,11,,,Q29078891,Cabinet of Lithuania,,,Q1103668,Kubilius I Cabinet,Q981087,Brazauskas I Cabinet,,,,
+,Q981087,Brazauskas I Cabinet,2001-07-12,11,,,2004-12-14,11,,,Q29078891,Cabinet of Lithuania,,,Q1027495,Paksas II Cabinet,Q895861,Brazauskas II Cabinet,,,,
+,Q895861,Brazauskas II Cabinet,2004-12-14,11,,,2006-06-01,11,,,Q29078891,Cabinet of Lithuania,,,Q981087,Brazauskas I Cabinet,Q895866,Kirkilas Cabinet,,,,
+,Q895866,Kirkilas Cabinet,2006-07-06,11,,,2008-12-09,11,,,Q29078891,Cabinet of Lithuania,,,Q895861,Brazauskas II Cabinet,Q895877,Kubilius Cabinet II,,,,
+,Q895877,Kubilius Cabinet II,2008-12-09,11,2008-01-01,9,2012-12-13,11,2012-01-01,9,Q29078891,Cabinet of Lithuania,,,Q895866,Kirkilas Cabinet,Q895889,Butkevičius Cabinet,,,,
+,Q895889,Butkevičius Cabinet,2012-12-13,11,2012-01-01,9,2016-12-13,11,,,Q29078891,Cabinet of Lithuania,,,Q895877,Kubilius Cabinet II,Q27886861,Skvernelis Cabinet,,,,
+,Q27886861,Skvernelis Cabinet,2016-11-27,11,,,2020-12-11,11,,,Q29078891,Cabinet of Lithuania,,,Q895889,Butkevičius Cabinet,Q101558001,Šimonytė Cabinet,Q895889,Butkevičius Cabinet,Q101558001,Šimonytė Cabinet
+,Q27886861,Skvernelis Cabinet,2016-12-13,11,,,2020-12-11,11,,,Q29078891,Cabinet of Lithuania,,,Q895889,Butkevičius Cabinet,Q101558001,Šimonytė Cabinet,Q895889,Butkevičius Cabinet,Q101558001,Šimonytė Cabinet
+,Q101558001,Šimonytė Cabinet,2020-12-11,11,,,,,,,Q29078891,Cabinet of Lithuania,,,Q27886861,Skvernelis Cabinet,,,Q27886861,Skvernelis Cabinet,,
