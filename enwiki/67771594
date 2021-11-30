@@ -50,7 +50,7 @@
         {
           "sentences": [
             {
-              "text": "He began his military career in 1985 with admission to the Novocherkassk Higher Military Command School of Communications named after Marshal of the Soviet Union Vasily Sokolovsky in Rostov Oblast (Новочеркасское высшее военное командное училище связи).",
+              "text": "He began his military career in 1985 with admission to the Novocherkassk Higher Military Command School of Communications named after Marshal of the Soviet Union Vasily Sokolovsky in Rostov Oblast (:ru:Новочеркасское высшее военное командное училище связи).",
               "links": [
                 {
                   "type": "internal",
@@ -69,12 +69,9 @@
                   "page": "Rostov Oblast"
                 },
                 {
-                  "text": "Новочеркасское высшее военное командное училище связи",
-                  "type": "interwiki",
-                  "wiki": {
-                    "wiki": "",
-                    "lang": "ru"
-                  }
+                  "text": ":ru:Новочеркасское высшее военное командное училище связи",
+                  "type": "internal",
+                  "page": ":ru:Новочеркасское высшее военное командное училище связи"
                 }
               ]
             },
@@ -167,18 +164,6 @@
           "accessdate": "2020-01-12",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "lithuania-mil-bio-stub"
         }
       ]
     }
