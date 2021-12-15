@@ -2,6 +2,7 @@
 
 TMPFILE=$(mktemp)
 HOLDERS=$(mktemp)
+UNDATED=$(mktemp)
 RAWBIOS=$(mktemp)
 BIO_CSV=$(mktemp)
 ENUM_PS=$(mktemp)
@@ -14,6 +15,12 @@ qsv select position wikidata/wanted-positions.csv |
   qsv behead |
   xargs wd sparql pcb/holders.js -f csv > $TMPFILE
 sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $HOLDERS
+
+# Un-dated holders
+qsv select position wikidata/wanted-positions.csv |
+  qsv behead |
+  xargs wd sparql pcb/unddated.js -f csv > $TMPFILE
+sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $UNDATED
 
 # Biographical info for officeholders
 qsv select person $HOLDERS |
@@ -35,7 +42,7 @@ jq -r 'def highest(array): (array | sort_by(.rank) | reverse | first.value);
     highest(.claims.P18),
     (try (.sitelinks.enwiki) catch null)
   ] | @csv' $RAWBIOS |
-  sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
+  sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' -e 's/Q1052281/female/' >> $BIO_CSV
 
 # TODO: other positions
 # TODO: relations
@@ -50,7 +57,7 @@ qsv join person $TMPFILE id $BIO_CSV |
   qsv sort -N -s index |
   qsv select title,name,person,start,end,gender,dob,dod,image,enwiki,prev,next |
   qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki,prev,next > $EXTD_21
-qsv select \!prev $EXTD_21 | qsv select \!next > html/holders21.csv
+qsv select \!prev $EXTD_21 | qsv select \!next | uniq > html/holders21.csv
 
 # Generate current.csv
 qsv search -s end -v . html/holders21.csv | qsv select \!end > html/current.csv
@@ -104,14 +111,20 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '* %s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv join --left-anti prev $EXTD_21 personID html/holders21.csv | qsv search -s start "^2" | qsv search -s prev . | qsv select prev,position,start | qsv sort -s start -R | qsv behead | qsv table))
+warnings=($(qsv join --left-anti prev $EXTD_21 personID html/holders21.csv | qsv search -s start "^2" | qsv search -s prev . | qsv select prev,position,start,personID | qsv sort -s start -R | qsv behead | qsv table))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "## Missing predecessors:"
   printf '* %s\n' "${warnings[@]}"
 fi
 
-warnings=($(qsv join --left-anti next $EXTD_21 personID html/holders21.csv | qsv search -s next . | qsv select next,position,end | qsv sort -s end -R | qsv behead | qsv table))
+warnings=($(qsv join --left-anti next $EXTD_21 personID html/holders21.csv | qsv search -s next . | qsv select next,position,end,personID | qsv sort -s end -R | qsv behead | qsv table))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "## Missing successors:"
+  printf '* %s\n' "${warnings[@]}"
+fi
+
+warnings=($(qsv join position $ENUM_PS position $UNDATED | qsv sort -R -s birth | qsv sort -N -s index | qsv select title,person,personLabel,birth,death | qsv behead | qsv table))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "## Undated:"
   printf '* %s\n' "${warnings[@]}"
 fi
