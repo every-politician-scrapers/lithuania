@@ -89,6 +89,9 @@
                   "page": "Šimonytė Cabinet"
                 }
               ]
+            },
+            {
+              "text": "Landsbergis handed in his resignation on 10 December 2021 but it was not accepted by the prime minister."
             }
           ]
         }
@@ -360,6 +363,15 @@
           "url": "https://www.delfi.lt/a/85932529",
           "access-date": "7 December 2020",
           "website": "DELFI",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Lithuanian Minister Hands in Resignation Over Belarus Sanctions",
+          "url": "https://www.bloomberg.com/news/articles/2021-12-10/lithuanian-minister-hands-in-resignation-over-belarus-sanctions",
+          "access-date": "15 December 2021",
+          "website": "Bloomberg",
           "language": "en",
           "template": "citation",
           "type": "web"
