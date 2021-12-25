@@ -59,6 +59,10 @@
           "template": "use dmy dates"
         },
         {
+          "date": "December 2021",
+          "template": "lead too short"
+        },
+        {
           "df": "y",
           "year": "1964",
           "month": "5",
