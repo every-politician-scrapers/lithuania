@@ -1,0 +1,22 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q878222,President of the Republic of Lithuania,Q37,Q37,,,1922,,,,President of Lithuania
+Q845439,Prime Minister of Lithuania,Q37,Q37,,,1918-11-11,,,,Prime Minister of Lithuania
+Q107735817,Minister of Agriculture,Q37,Q37,,,,,,,
+Q107735814,Minister of Culture,Q37,Q37,,,,,,,
+Q107735812,Minister of Economy and Innovation,Q37,Q37,,,,,,,
+Q30313091,Minister of Education and Science,Q37,Q37,,,,,,,
+Q107735809,"Minister of Education, Science and Sport",Q37,Q37,,,,,,,
+Q107735806,Minister of Energy,Q37,Q37,,,,,,,
+Q107735803,Minister of Environment,Q37,Q37,,,,,,,
+Q29079132,Minister of Finance,Q37,Q37,,,,,,,
+Q25894090,Minister of Foreign Affairs,Q37,Q37,,,,,,,
+Q25707086,Minister of Health,Q37,Q37,,Q107574623,,,,,
+Q107735748,Minister of Justice,Q37,Q37,,,,,,,
+Q25470413,Minister of National Defence,Q37,Q37,,,,,,,
+Q107735743,Minister of Social Security and Labour,Q37,Q37,,,,,,,
+Q107735740,Minister of Transport and Communications,Q37,Q37,,,,,,,
+Q12663218,Speaker of the Seimas,Q37,Q37,Q30320778,Q6597975,,,,,
+Q30320778,Deputy Speaker of the Seimas,Q37,Q37,,,,,,,
+Q55607326,Chief of Defence (Lithuania),Q37,,,,,,,,Chief of Defence (Lithuania)
+Q109496871,Governor of the Central Bank of the Republic of Lithuania,Q37,,,,,,,,
+Q109496914,mayor of Vilnius,,Q216,,Q16319726,,,,,Mayor of Vilnius
