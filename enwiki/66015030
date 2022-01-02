@@ -191,26 +191,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Marius Skuodis",
-          "url": "http://eimin.lrv.lt/lt/struktura-ir-kontaktai/vadovybe/marius-skuodis",
-          "access-date": "2020-12-05",
-          "website": "eimin.lrv.lt",
-          "language": "lt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "President approves makeup of Simonyte Cabinet",
-          "url": "https://www.delfi.lt/a/85932529",
-          "access-date": "2020-12-07",
-          "website": "DELFI",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
