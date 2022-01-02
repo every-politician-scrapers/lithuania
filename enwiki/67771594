@@ -150,24 +150,6 @@
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/V._rupsys-3.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/V._rupsys-3.jpg"
         }
-      ],
-      "references": [
-        {
-          "title": "Flag of the Lithuanian Armed Forces passed on to Major General Valdemaras Rupšys",
-          "url": "http://kariuomene.kam.lt/en/military_insignia/news_1889/flag_of_the_lithuanian_armed_forces_passed_on_to_major_general_valdemaras_rupsys.html",
-          "website": "kariuomene.kam.lt",
-          "date": "25 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://kariuomene.kam.lt/lt/kariuomenes_struktura/vadovybe/kariuomenes_vadas_valdemaras_rupsys.html",
-          "title": "Lietuvos kariuomenė :: Kariuomenės struktūra » Vadovybė » Kariuomenės vadas",
-          "publisher": "kariuomene.kam.lt",
-          "accessdate": "2020-01-12",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

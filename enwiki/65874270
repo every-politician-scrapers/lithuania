@@ -192,35 +192,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Rezultatai - vrk.lt",
-          "url": "https://www.vrk.lt/2020-seimo/rezultatai?srcUrl=/rinkimai/1104/rnk1424/kandidatai/lrsKandidatasBiografija_rkndId-2420113.html",
-          "access-date": "2020-11-18",
-          "website": "www.vrk.lt",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2019-12-18",
-          "title": "Ewelina Dobrowolska od stycznia będzie radną stołecznego samorządu - Wiadomości Znad Wilii",
-          "url": "https://zw.lt/wilno-wilenszczyzna/ewelina-dobrowolska-od-stycznia-bedzie-radna-stolecznego-samorzadu/",
-          "access-date": "2020-11-18",
-          "website": "zw.lt",
-          "language": "pl-PL",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "President approves makeup of Simonyte Cabinet",
-          "url": "https://www.delfi.lt/a/85932529",
-          "access-date": "2020-12-07",
-          "website": "DELFI",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
