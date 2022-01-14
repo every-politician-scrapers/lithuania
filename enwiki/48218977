@@ -119,17 +119,12 @@
             "text": "Gabrielius Landsbergis"
           },
           "honorific-suffix": {
-            "text": "MP MEP",
+            "text": "MP",
             "links": [
               {
                 "text": "MP",
                 "type": "internal",
                 "page": "Seimas"
-              },
-              {
-                "text": "MEP",
-                "type": "internal",
-                "page": "European Parliament"
               }
             ]
           },
