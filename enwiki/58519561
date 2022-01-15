@@ -94,7 +94,7 @@
             "text": "Doctor of Economics",
             "links": [
               {
-                "text": " Doctor of Economics",
+                "text": "Doctor of Economics",
                 "type": "internal",
                 "page": "Doctor (title)"
               }
@@ -102,6 +102,9 @@
           },
           "image": {
             "text": "File:Gitanas Nauseda crop.png"
+          },
+          "caption": {
+            "text": "Nausėda in 2018"
           },
           "office": {
             "text": "President of Lithuania",
