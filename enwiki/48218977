@@ -72,28 +72,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 11 December 2020, he was approved to be the Minister of Foreign Affairs in the Šimonytė Cabinet.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Lithuania)"
-                },
-                {
-                  "text": "Šimonytė Cabinet",
-                  "type": "internal",
-                  "page": "Šimonytė Cabinet"
-                }
-              ]
-            },
-            {
-              "text": "Landsbergis handed in his resignation on 10 December 2021 but it was not accepted by the prime minister."
-            }
-          ]
         }
       ],
       "templates": [
