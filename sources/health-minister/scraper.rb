@@ -10,12 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Term'
+    'Ministras'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no name party cabinet start end].freeze
+      %w[no name party start end].freeze
+    end
+
+    def empty?
+      (tds[1].text == tds[2].text)
+    end
+
+    def raw_end
+      super.gsub('†', '').tidy
     end
   end
 end
