@@ -1,0 +1,25 @@
+@@,itemlabel,item,startdate,enddate
++++,Juozas Olekas,Q1376538,1990-01-17,1991-01-10
++++,Juozas Olekas,Q1376538,1991-01-10,1991-01-13
++++,Juozas Olekas,Q1376538,1991-01-13,1992-07-21
++++,Juozas Olekas,Q1376538,1992-07-21,1992-12-17
++++,Vytautas Kriauza,,1992-12-17,1993-03-31
++++,Jurgis Brėdikis,,1993-03-31,1994-11-10
++++,Antanas Vinkus,Q545629,1994-11-10,1996-03-19
++++,Antanas Vinkus,Q545629,1996-03-19,1996-12-10
++++,Juozas Galdikas,,1996-12-10,1998-03-25
++++,Laurynas Stankevičius,Q1376624,1998-03-25,1999-06-10
++++,Raimundas Alekna,,1999-06-10,1999-11-11
++++,Raimundas Alekna,,1999-11-11,2000-11-09
++++,Vinsas Janušonis,,2000-11-09,2001-04-02
++++,Konstantinas Dobrovolskis,Q1027481,2001-05-15,2001-07-12
++++,Konstantinas Dobrovolskis,Q1027481,2001-07-12,2003-03-06
++++,Juozas Olekas,Q1376538,2003-03-06,2004-12-14
+---,Juozas Olekas,Q1376538,2003-03-10,2004-11-29
+->,Žilvinas Padaiga,Q394068->NULL,2004-12-14,2006-07-18
++++,Rimvydas Turčinskas,Q980933,2006-07-18,2008-07-14
++++,Gediminas Černiauskas,Q981104,2008-07-14,2008-12-09
+->,Algis Čaplikas,Q725287->NULL,2008-12-09,2010-03-10->2010-02-22
+->,Raimondas Šukys,Q1685267,2010-03-10->2010-02-22,2012-12-13
+->,Vytenis Andriukaitis,Q774300,2012-12-13,2014-07-14->2014-07-10
+->,Juras Požela,Q3660989,2016-03-15->2016-03-10,2016-10-16
