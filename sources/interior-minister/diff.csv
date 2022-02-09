@@ -1,24 +1,21 @@
 @@,itemlabel,item,startdate,enddate
-+++,Marijonas Misiukonis,,1990-01-17,1991-01-10
-+++,Marijonas Misiukonis,,1991-01-10,1991-01-13
-+++,Petras Valiukas,,1991-01-13,1992-07-21
-+++,Petras Valiukas,,1992-07-21,1992-12-17
-+++,Romasis Vaitiekūnas,,1992-12-17,1993-03-31
-+++,Romasis Vaitiekūnas,,1993-03-31,1996-03-19
++++,Marijonas Misiukonis,Q1898136,1990-01-17,1991-01-13
++++,Petras Valiukas,Q1383100,1991-01-13,1992-12-17
++++,Romasis Vaitiekūnas,Q2165005,1992-12-17,1996-03-19
 +++,Virgilijus Vladislovas Bulovas,Q1112331,1996-03-19,1996-12-10
 +++,Vidmantas Žiemelis,Q1893972,1996-12-10,1998-05-21
-+++,Stasys Šedbaras,,1998-05-22,1999-06-10
-+++,Česlovas Blažys,,1999-06-10,1999-11-11
-+++,Česlovas Blažys,,1999-11-11,2000-11-09
-+++,Vytautas Markevičius,,2000-11-09,2001-07-12
++++,Stasys Šedbaras,Q574618,1998-05-22,1999-06-10
++++,Česlovas Blažys,Q1193316,1999-06-10,2000-11-09
++++,Vytautas Markevičius,Q2535667,2000-11-09,2001-07-12
+->,Juozas Bernatonis,Q1305783->Q12658459,2001-07-12,2003-04-28
 +++,Virgilijus Vladislovas Bulovas,Q1112331,2003-05-13,2004-12-14
-+++,Gintaras Furmanavičius,,2004-12-14,2006-07-18
++++,Gintaras Furmanavičius,Q980957,2004-12-14,2006-07-18
 ->,Raimondas Šukys,Q1685267,2006-07-12->2006-07-18,2007-12-10->2007-12-09
-+++,Regimantas Čiupaila,,2007-12-17,2008-12-09
++++,Regimantas Čiupaila,Q2137805,2007-12-17,2008-12-09
 +++,Raimundas Palaitis,Q937621,2008-12-09,2012-03-26
-+++,Artūras Melianas,,2012-04-16,2012-12-13
-+++,Dailis Alfonsas Barakauskas,,2012-12-13,2014-10-30
++++,Artūras Melianas,Q716040,2012-04-16,2012-12-13
++++,Dailis Alfonsas Barakauskas,Q887795,2012-12-13,2014-10-30
 +++,Saulius Skvernelis,Q1797508,2014-11-11,2016-04-13
-+++,Tomas Žilinskas,,2016-04-13,2016-12-13
++++,Tomas Žilinskas,Q16474208,2016-04-13,2016-12-13
 +++,Eimutis Misiūnas,Q27976383,2016-12-13,2019-08-07
 +++,Rita Tamašunienė,Q9310614,2019-08-07,2020-12-11
