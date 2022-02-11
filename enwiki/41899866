@@ -241,8 +241,13 @@
             "text": "Official portrait, 2019"
           },
           "honorific-suffix": {
-            "text": "MP",
+            "text": "PM MP",
             "links": [
+              {
+                "text": "PM",
+                "type": "internal",
+                "page": "Prime Minister of Lithuania"
+              },
               {
                 "text": "MP",
                 "type": "internal",
