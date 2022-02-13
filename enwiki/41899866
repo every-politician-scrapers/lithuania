@@ -28,11 +28,12 @@
         {
           "sentences": [
             {
-              "text": "Ingrida Šimonytė (born 15 November 1974) is a Lithuanian politician and economist who is the current Prime Minister of Lithuania, having taken office on 11 December 2020.",
+              "text": "Ingrida Šimonytė (born 15 November 1974) is a Lithuanian politician and economist who is the prime minister of Lithuania, having taken office on 11 December 2020.",
               "links": [
                 {
+                  "text": "prime minister of Lithuania",
                   "type": "internal",
-                  "page": "Prime Minister of Lithuania"
+                  "page": "prime minister of Lithuania"
                 }
               ],
               "formatting": {
