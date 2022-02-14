@@ -1,11 +1,2 @@
 @@,itemlabel,item,startdate,enddate
-+++,Algis Dobravolskas,Q390842,1990-03-24,1992-07-30
-+++,Teodoras Medaiskis,Q2403957,1992-07-30,1993-10-21
-+++,Laurynas Mindaugas Stankevičius,Q1376624,1993-10-21,1994-07-12
-+++,Mindaugas Mikaila,Q390852,1994-07-12,1996-12-04
-+++,Irena Degutienė,Q270360,1996-12-04,2000-11-09
-+++,Vilija Blinkevičiūtė,Q435394,2000-10-30,2008-12-09
-+++,Rimantas Jonas Dagys,Q562964,2008-12-09,2009-07-22
-+++,Donatas Jankauskas,Q82512,2009-07-22,2012-12-13
-+++,Algimanta Pabedinskienė,Q886872,2012-12-13,2016-12-13
-+++,Linas Kukuraitis,Q27977694,2016-12-13,2020-12-11
+->,Rimantas Dagys->Rimantas Jonas Dagys,Q562964,2008-12-09,2009-07-22
