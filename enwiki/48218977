@@ -4,10 +4,10 @@
   "categories": [
     "1982 births",
     "Living people",
+    "Vilnius University alumni",
     "Homeland Union MEPs",
     "MEPs for Lithuania 2014–2019",
     "Politicians from Vilnius",
-    "Vilnius University alumni",
     "Ministers of Foreign Affairs of Lithuania"
   ],
   "sections": [
@@ -298,6 +298,15 @@
               {
                 "type": "internal",
                 "page": "Soviet Union"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Vilnius University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vilnius University"
               }
             ]
           },
