@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Lithuania",
+      "id": "Q37"
+    },
+    "cabinet": {
+      "id": "Q101558001",
+      "start": "2020-12-11",
+      "parent": "Q29078891"
+    },
+    "source": {
+        "url":   "https://lrv.lt/en/about-government/ministers",
+        "title": "Ministers | My Government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/lithuania-cabinet"
+}
