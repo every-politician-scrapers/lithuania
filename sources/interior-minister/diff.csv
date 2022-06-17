@@ -1,7 +1,6 @@
-@@,itemlabel,item,startdate,enddate
-->,Romasis Vaitekūnas->Romasis Vaitiekūnas,Q2165005,1992-12-17,1996-03-19
-->,Česlovas Kazimieras Blažys->Česlovas Blažys,Q1193316,1999-06-10,2000-11-09
-->,Juozas Bernatonis,Q1305783->Q12658459,2001-07-12,2003-04-28
-->,Gintaras Jonas Furmanavičius->Gintaras Furmanavičius,Q980957,2004-12-14,2006-07-18
-->,Raimondas Šukys,Q1685267,2006-07-12->2006-07-18,2007-12-10->2007-12-09
-+++,Tomas Žilinskas,Q16474208,2016-04-13,2016-12-13
+@@,item,itemlabel,startdate,enddate
+->,Q1193316,Česlovas Kazimieras Blažys->Česlovas Blažys,1999-06-10,2000-11-09
+->,Q1305783->Q12658459,Juozas Bernatonis,2001-07-12,2003-04-28
+->,Q980957,Gintaras Jonas Furmanavičius->Gintaras Furmanavičius,2004-12-14,2006-07-18
+->,Q1685267,Raimondas Šukys,2006-07-12->2006-07-18,2007-12-10->2007-12-09
++++,Q16474208,Tomas Žilinskas,2016-04-13,2016-12-13

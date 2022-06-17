@@ -1,5 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-+++,Rolandas Matiliauskas,,1996-12-10,1997-02-03
-->,Algirdas Gediminas Šemeta->Algirdas Šemeta,Q519077,1997-02-19,1999-06-01->1999-06-10
-->,Algirdas Gediminas Šemeta->Algirdas Šemeta,Q519077,2008-12-09,2009-06-30
-->,Rimantas Šadžius,Q1563291,2012-12-13,2016-06-20->2016-06-15
+@@,item,itemlabel,startdate,enddate
+->,Q519077,Algirdas Gediminas Šemeta->Algirdas Šemeta,2008-12-09,2009-06-30
+->,Q1563291,Rimantas Šadžius,2012-12-13,2016-06-20->2016-06-15

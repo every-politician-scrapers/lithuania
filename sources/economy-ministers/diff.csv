@@ -1,5 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-+++,Aleksandras Vasiliauskas,Q16443106,1994-06-09,1995-10-05
-+++,Antanas Kaminskas,Q12648653,1996-03-19,1996-12-10
-+++,Vincas Babilius,Q12677643,1996-12-10,1999-06-10
-->,Virginijus Sinkevičius,Q27653570,2017-11-27->2017-11-28,2019-11-30
+@@,item,itemlabel,startdate,enddate
+->,Q27653570,Virginijus Sinkevičius,2017-11-27->2017-11-28,2019-11-30
