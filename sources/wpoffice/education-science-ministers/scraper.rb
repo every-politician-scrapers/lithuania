@@ -19,7 +19,13 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      (tds[1].text == tds[2].text) || (startDate.split('-').first.to_i < 1994) || endDate.to_s.empty? || (endDate.split('-').first.to_i > 2017)
+      (tds[1].text == tds[2].text) || too_early? || too_late?
+    end
+
+    def too_late?
+      return true if endDate.to_s.empty?
+
+      endDate.split('-').first.to_i > 2017
     end
   end
 end
