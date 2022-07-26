@@ -1,0 +1,54 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Lithuania)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2009-07-07",
+    "P1365": {
+      "links": [
+        "Algirdas Šemeta"
+      ],
+      "stated_as": "Algirdas Šemeta"
+    },
+    "P582": "2012-12-13",
+    "P1366": {
+      "links": [
+        "Rimantas Šadžius"
+      ],
+      "stated_as": "Rimantas Šadžius"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2016-11-14",
+    "P1365": {
+      "links": [
+        "Andrius Kubilius"
+      ],
+      "stated_as": "Andrius Kubilius"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Lithuania"
+      ],
+      "stated_as": "17th Prime Minister of Lithuania"
+    },
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Saulius Skvernelis"
+      ],
+      "stated_as": "Saulius Skvernelis"
+    }
+  }
+]

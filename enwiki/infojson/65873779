@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2016-11-14",
+    "P582": "2020-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+        "Gintaras Vaičekauskas"
+      ],
+      "stated_as": "Gintaras Vaičekauskas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Environment (Lithuania)"
+      ],
+      "stated_as": "18th Minister for Environment of Lithuania"
+    },
+    "P1545": "18",
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Kęstutis Mažeika"
+      ],
+      "stated_as": "Kęstutis Mažeika"
+    }
+  }
+]

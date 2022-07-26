@@ -1,0 +1,74 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of Seimas"
+    },
+    "P580": "2008-11-17",
+    "P582": "2012-11-15"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of Seimas"
+    },
+    "P580": "2012-11-16",
+    "P1365": {
+      "links": [
+        "Mantas Adomėnas"
+      ],
+      "stated_as": "Mantas Adomėnas"
+    },
+    "P582": "2016-11-13",
+    "P1366": {
+      "links": [
+        "Mykolas Majauskas"
+      ],
+      "stated_as": "Mykolas Majauskas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of Seimas"
+    },
+    "P580": "2016-11-14",
+    "P582": "2020-11-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of Seimas"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+        "Aušra Papirtienė"
+      ],
+      "stated_as": "Aušra Papirtienė"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defence (Lithuania)"
+      ],
+      "stated_as": "Minister for National Defence"
+    },
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Raimundas Karoblis"
+      ],
+      "stated_as": "Raimundas Karoblis"
+    }
+  }
+]
