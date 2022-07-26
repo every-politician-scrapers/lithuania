@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Innovation (Lithuania)"
+      ],
+      "stated_as": "Deputy Minister for Economy and Innovation of Lithuania"
+    },
+    "P580": "2018-01-16",
+    "P582": "2020-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport and Communications (Lithuania)"
+      ],
+      "stated_as": "22nd Minister for Transport and Communications of Lithuania"
+    },
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Jaroslav Narkevič"
+      ],
+      "stated_as": "Jaroslav Narkevič"
+    }
+  }
+]

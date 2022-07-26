@@ -1,0 +1,90 @@
+[
+  {
+    "office": {
+      "links": [
+        "Vilnius"
+      ],
+      "stated_as": "Vilnius Municipal Councillor"
+    },
+    "P580": "2015-03-04",
+    "P582": "2016-12-12",
+    "P1366": {
+      "links": [
+        "Vytautas Mitalas"
+      ],
+      "stated_as": "Vytautas Mitalas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2016-11-14",
+    "P582": "2020-11-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Liberal Movement (Lithuania)"
+      ],
+      "stated_as": "Vice Chairperson of the Liberal Movement"
+    },
+    "P580": "2017-09-21",
+    "P582": "2018-11-02",
+    "P1366": {
+      "links": [
+        "Simonas Gentvilas"
+      ],
+      "stated_as": "Simonas Gentvilas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Freedom Party (Lithuania)"
+      ],
+      "stated_as": "Chairperson of the Freedom Party"
+    },
+    "P580": "2019-06-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Innovation (Lithuania)"
+      ],
+      "stated_as": "27th Minister for Economy and Innovation of Lithuania"
+    },
+    "P1545": "27",
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Rimantas Sinkevičius"
+      ],
+      "stated_as": "Rimantas Sinkevičius"
+    }
+  }
+]

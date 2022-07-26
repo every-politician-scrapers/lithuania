@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2020-11-13",
+    "P1365": {
+      "links": [
+        "Ramūnas Karbauskis"
+      ],
+      "stated_as": "Ramūnas Karbauskis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education and Science (Lithuania)"
+      ],
+      "stated_as": "22nd Minister for Education, Science and Sports of Lithuania"
+    },
+    "P1545": "22",
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Algirdas Monkevičius"
+      ],
+      "stated_as": "Algirdas Monkevičius"
+    }
+  }
+]

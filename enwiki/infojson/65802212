@@ -1,0 +1,42 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of the Seimas"
+    },
+    "P580": "2016-11-14",
+    "P1365": {
+      "links": [
+        "Sergej Ursul"
+      ],
+      "stated_as": "Sergej Ursul"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Homeland Union"
+      ],
+      "stated_as": "Vice Chairwoman of the Homeland Union"
+    },
+    "P580": "2017-03-04"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social Security and Labour (Lithuania)"
+      ],
+      "stated_as": "21st Minister for Social Security and Labour of Lithuania"
+    },
+    "P1545": "21",
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Linas Kukuraitis"
+      ],
+      "stated_as": "Linas Kukuraitis"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the Seimas"
+      ],
+      "stated_as": "Member of Seimas"
+    },
+    "P580": "2020-11-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Lithuania)"
+      ],
+      "stated_as": "20th Minister for Justice of Lithuania"
+    },
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Elvinas Jankevičius"
+      ],
+      "stated_as": "Elvinas Jankevičius"
+    }
+  }
+]
