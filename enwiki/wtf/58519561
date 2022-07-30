@@ -2272,6 +2272,33 @@
             "reason": {
               "text": ""
             }
+          },
+          {
+            "date": {
+              "text": "28 July 2022"
+            },
+            "country": {
+              "text": "🇺🇦 Ukraine",
+              "links": [
+                {
+                  "text": "Ukraine",
+                  "type": "internal",
+                  "page": "ukraine"
+                }
+              ]
+            },
+            "city": {
+              "text": "Kyiv",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyiv"
+                }
+              ]
+            },
+            "reason": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -2294,6 +2321,12 @@
           "website": "www.bundespraesident.de",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",
