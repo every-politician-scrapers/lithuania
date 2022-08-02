@@ -222,6 +222,10 @@
           "template": "short description"
         },
         {
+          "date": "August 2022",
+          "template": "cleanup bare urls"
+        },
+        {
           "date": "November 2020",
           "template": "use dmy dates"
         },
@@ -1486,7 +1490,94 @@
           "sentences": []
         },
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "As part of the visit to Italy, prime minister Ingrida Šimonytė met with Pope Francis in Vatican.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pope Francis"
+                },
+                {
+                  "text": "Vatican",
+                  "type": "internal",
+                  "page": "Vatican City"
+                }
+              ]
+            },
+            {
+              "text": "This was the first meeting between the prime minister and the Pope."
+            },
+            {
+              "text": "The prime minister thanked the Pope for his consistent attention to Lithuania and its people."
+            },
+            {
+              "text": "PM Šimonytė also expressed support for the activities of the Holy See and of the Pope aimed at promoting peace in the world, advocating for greater respect for women, protection of the environment, and the principles of human dignity."
+            },
+            {
+              "text": "Lithuania supports the actions of the Holy See in Ukraine, therefore, on behalf of Lithuania, the prime minister handed over 10 000 euros to the Pope for Ukraine Foundation."
+            },
+            {
+              "text": "After the meeting with Pope Francis, she met with the Secretary of State of Holy See Cardinal Pietro Parolin and with Secretary for Relations with States of Holy See the Archbishop Paul Richard Gallagher to discuss the bilateral relations and international policy.",
+              "links": [
+                {
+                  "text": "Secretary of State of Holy See",
+                  "type": "internal",
+                  "page": "Cardinal Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pietro Parolin"
+                },
+                {
+                  "text": "Secretary for Relations with States of Holy See",
+                  "type": "internal",
+                  "page": "Section for Relations with States (Roman Curia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paul Richard Gallagher"
+                }
+              ]
+            },
+            {
+              "text": "PM Šimonytė also met with Grand Chancellor of the Order of Malta Albrecht Freiherri von Boeselager in Rome to discuss the bilateral relations and the activities of the Order in Lithuania.",
+              "links": [
+                {
+                  "text": "Grand Chancellor of the Order of Malta",
+                  "type": "internal",
+                  "page": "Sovereign Military Order of Malta"
+                },
+                {
+                  "text": "Albrecht Freiherri von Boeselager",
+                  "type": "internal",
+                  "page": "Albrecht von Boeselager"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rome"
+                }
+              ]
+            },
+            {
+              "text": "The meeting also covered irregular migration across the Lithuania-Belarus border and the activities of the Order of Malta in this regard."
+            },
+            {
+              "text": "In the meeting with President of Moldova Maia Sandu, prime minister Šimonytė talked over the reforms, the regional security, co-operation with the EU, and the prospects of the Eastern Partnership policy in the context of the forthcoming Eastern Partnership Summit."
+            },
+            {
+              "text": "The Prime Minister of Lithuania welcomed Moldova’s ambitious attitude as regards the future of this policy, while encouraging to continue the joint efforts between Moldova, Ukraine and Sakartvelo towards closer dialogue with the EU."
+            },
+            {
+              "text": "In her meeting with Speaker of the Moldovan Parliament Igor Grosu, the prime minister of Lithuania once again thanked the Moldovan Parliament for having been the first to recognise the restoration of the independent state of Lithuania 30 years ago."
+            },
+            {
+              "text": "Šimonytė pointed out the importance of parliamentary diplomacy in gaining international support for Moldova’s reform processes."
+            },
+            {
+              "text": "Prime Minister Ingrida Šimonytė also participated in discussion with Lithuanian experts working in Moldova and together with the Prime Minister of Moldova opened an honorary consulate of the Republic of Lithuania."
+            }
+          ]
         },
         {
           "sentences": []
@@ -1729,7 +1820,7 @@
             ]
           },
           {
-            "text": "2–3 September 2021: 🇮🇹 Italy Vatican  Sovereign Military Order of Malta (Rome, Vatican), PM Šimonytė met with prime minister of Italy Mario Draghi in Rome and discussed the strengthening of bilateral relations and economic cooperation, security, the situation in Afghanistan, Belarus and Russia, also the European Union's relations with China. The prime ministers focused on the irregular migration and the situation on the Lithuania-Belarus border. Together they also stressed the need to strengthen the transatlantic relations, discussed the possibilities of strengthening the bilateral relations, while particularly focusing on economic cooperation. EU challenges of illegal migration were also on the meeting agenda. The counterparts agreed that both Lithuania and Italy are strong supporters of European integration and that they care about the future of the EU, which should build on the principles of solidarity and strong European values. The situation in Afghanistan was also discussed at large, including the evacuation of Afghans who had helped Lithuania and Italy, the security situation in the country, the importance of the efforts of the international community in preventing a possible humanitarian crisis in Afghanistan. The prime ministers of Lithuania and Italy also discussed the prospects for EU-China relations. PM Šimonytė noted that talks with China should take place in non-divisive for Europe formats. As part of her visit to Italy, the prime minister of Lithuania met also with the senior management of Italian life sciences companies and Lithuanian community in Italy. At the Galleria Nazionale d'Arte Moderna, the PM of Lithuania visited an exhibition of works by Antonietta Raphaël Mafai, a well-known Litvak artist. As part of the visit to Italy, prime minister Ingrida Šimonytė met with Pope Francis in Vatican. This was the first meeting between the prime minister and the Pope. The prime minister thanked the Pope for his consistent attention to Lithuania and its people. PM Šimonytė also expressed support for the activities of the Holy See and of the Pope aimed at promoting peace in the world, advocating for greater respect for women, protection of the environment, and the principles of human dignity. Lithuania supports the actions of the Holy See in Ukraine, therefore, on behalf of Lithuania, the prime minister handed over 10 000 euros to the Pope for Ukraine Foundation. After the meeting with Pope Francis, she met with the Secretary of State of Holy See Cardinal Pietro Parolin and with Secretary for Relations with States of Holy See the Archbishop Paul Richard Gallagher to discuss the bilateral relations and international policy. PM Šimonytė also met with Grand Chancellor of the Order of Malta Albrecht Freiherri von Boeselager in Rome to discuss the bilateral relations and the activities of the Order in Lithuania. The meeting also covered irregular migration across the Lithuania-Belarus border and the activities of the Order of Malta in this regard.",
+            "text": "2–3 September 2021: 🇮🇹 Italy Vatican  Sovereign Military Order of Malta (Rome, Vatican), PM Šimonytė met with prime minister of Italy Mario Draghi in Rome and discussed the strengthening of bilateral relations and economic cooperation, security, the situation in Afghanistan, Belarus and Russia, also the European Union's relations with China. The prime ministers focused on the irregular migration and the situation on the Lithuania-Belarus border. Together they also stressed the need to strengthen the transatlantic relations, discussed the possibilities of strengthening the bilateral relations, while particularly focusing on economic cooperation. EU challenges of illegal migration were also on the meeting agenda. The counterparts agreed that both Lithuania and Italy are strong supporters of European integration and that they care about the future of the EU, which should build on the principles of solidarity and strong European values. The situation in Afghanistan was also discussed at large, including the evacuation of Afghans who had helped Lithuania and Italy, the security situation in the country, the importance of the efforts of the international community in preventing a possible humanitarian crisis in Afghanistan. The prime ministers of Lithuania and Italy also discussed the prospects for EU-China relations. PM Šimonytė noted that talks with China should take place in non-divisive for Europe formats. As part of her visit to Italy, the prime minister of Lithuania met also with the senior management of Italian life sciences companies and Lithuanian community in Italy. At the Galleria Nazionale d'Arte Moderna, the PM of Lithuania visited an exhibition of works by Antonietta Raphaël Mafai, a well-known Litvak artist.",
             "links": [
               {
                 "text": "Italy",
@@ -1772,50 +1863,11 @@
                 "text": "Antonietta Raphaël Mafai",
                 "type": "internal",
                 "page": "Antonietta Raphael"
-              },
-              {
-                "type": "internal",
-                "page": "Pope Francis"
-              },
-              {
-                "text": "Vatican",
-                "type": "internal",
-                "page": "Vatican City"
-              },
-              {
-                "text": "Secretary of State of Holy See",
-                "type": "internal",
-                "page": "Cardinal Secretary of State"
-              },
-              {
-                "type": "internal",
-                "page": "Pietro Parolin"
-              },
-              {
-                "text": "Secretary for Relations with States of Holy See",
-                "type": "internal",
-                "page": "Section for Relations with States (Roman Curia)"
-              },
-              {
-                "type": "internal",
-                "page": "Paul Richard Gallagher"
-              },
-              {
-                "text": "Grand Chancellor of the Order of Malta",
-                "type": "internal",
-                "page": "Sovereign Military Order of Malta"
-              },
-              {
-                "text": "Albrecht Freiherri von Boeselager",
-                "type": "internal",
-                "page": "Albrecht von Boeselager"
-              },
-              {
-                "type": "internal",
-                "page": "Rome"
               }
             ]
-          },
+          }
+        ],
+        [
           {
             "text": "9 September 2021: 🇩🇪 Germany (Berlin), PM Šimonytė met with Chancellor of Austria Sebastian Kurz and President of the European People's Party Group in the European Parliament Manfred Weber, participated in discussions, and delivered a speech at the EPP Conference on the Future of Europe.",
             "links": [
@@ -1993,7 +2045,7 @@
             ]
           },
           {
-            "text": "10 December 2021: 🇲🇩 Moldova (Chișinău), during an official visit PM Šimonytė met with prime minister of Moldova Natalia Gavrilița, president of Moldova Maia Sandu, and President of the Moldovan Parliament Igor Grosu. In the meeting with the prime minister of Moldova, PM Šimonytė of Lithuania expressed support for the reforms undertaken by the Moldovan Government and its aspiration to move closer towards the EU. Šimonytė also emphasised that the implementation of the EU-Moldova Association Agreement, including its part on a Deep and Comprehensive Free Trade Area, also contributes to these ambitious goals. The counterparts discussed areas where Lithuania could step up its support for Moldova through shared expertise and closer inter-institutional cooperation, namely energy, reforming of justice and home affairs, anti-corruption, the environment, and others. During the visit, the Lithuanian and Moldovan Deputy Foreign Ministers signed a memorandum of understanding on strengthening Moldova’s institutional capacity and governance. Lithuania will provide 350 thousand euros for the implementation of this memorandum. In the meeting with President of Moldova Maia Sandu, prime minister Šimonytė talked over the reforms, the regional security, co-operation with the EU, and the prospects of the Eastern Partnership policy in the context of the forthcoming Eastern Partnership Summit. The Prime Minister of Lithuania welcomed Moldova’s ambitious attitude as regards the future of this policy, while encouraging to continue the joint efforts between Moldova, Ukraine and Sakartvelo towards closer dialogue with the EU. In her meeting with Speaker of the Moldovan Parliament Igor Grosu, the prime minister of Lithuania once again thanked the Moldovan Parliament for having been the first to recognise the restoration of the independent state of Lithuania 30 years ago. Šimonytė pointed out the importance of parliamentary diplomacy in gaining international support for Moldova’s reform processes. Prime Minister Ingrida Šimonytė also participated in discussion with Lithuanian experts working in Moldova and together with the Prime Minister of Moldova opened an honorary consulate of the Republic of Lithuania.",
+            "text": "10 December 2021: 🇲🇩 Moldova (Chișinău), during an official visit PM Šimonytė met with prime minister of Moldova Natalia Gavrilița, president of Moldova Maia Sandu, and President of the Moldovan Parliament Igor Grosu. In the meeting with the prime minister of Moldova, PM Šimonytė of Lithuania expressed support for the reforms undertaken by the Moldovan Government and its aspiration to move closer towards the EU. Šimonytė also emphasised that the implementation of the EU-Moldova Association Agreement, including its part on a Deep and Comprehensive Free Trade Area, also contributes to these ambitious goals. The counterparts discussed areas where Lithuania could step up its support for Moldova through shared expertise and closer inter-institutional cooperation, namely energy, reforming of justice and home affairs, anti-corruption, the environment, and others. During the visit, the Lithuanian and Moldovan Deputy Foreign Ministers signed a memorandum of understanding on strengthening Moldova’s institutional capacity and governance. Lithuania will provide 350 thousand euros for the implementation of this memorandum.",
             "links": [
               {
                 "text": "Moldova",
