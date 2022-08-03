@@ -1,0 +1,491 @@
+{
+  "title": "Gintarė Skaistė",
+  "pageID": 65806231,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Politicians from Kaunas",
+    "Women members of the Seimas",
+    "Homeland Union politicians",
+    "Members of the Seimas",
+    "21st-century Lithuanian politicians",
+    "Ministers of Finance of Lithuania",
+    "Female finance ministers",
+    "Women government ministers of Lithuania",
+    "Mykolas Romeris University alumni",
+    "Kaunas University of Technology alumni",
+    "21st-century Lithuanian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gintarė Skaistė (born 4 August 1981) is a Lithuanian politician, Member of the Seimas for Panemunė constituency, economist and PhD of Social Sciences.",
+              "links": [
+                {
+                  "text": "Lithuanian",
+                  "type": "internal",
+                  "page": "Lithuania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of the Seimas"
+                },
+                {
+                  "text": "Panemunė constituency",
+                  "type": "internal",
+                  "page": "Panemunė, Kaunas"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gintarė Skaistė"
+                ]
+              }
+            },
+            {
+              "text": "She was Kaunas City Councillor between 2007 and 2016.",
+              "links": [
+                {
+                  "text": "Kaunas City Councillor",
+                  "type": "internal",
+                  "page": "Kaunas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 December 2020, Skaistė was approved to be the Minister of Finance in the Šimonytė Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Lithuania)"
+                },
+                {
+                  "text": "Šimonytė Cabinet",
+                  "type": "internal",
+                  "page": "Šimonytė Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Lithuanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1981",
+          "month": "8",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Šimonytė"
+          ],
+          "template": "nee"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gintarė Skaistė"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Seimas"
+              }
+            ]
+          },
+          "order": {
+            "text": "25th Minister for Finance of Lithuania",
+            "links": [
+              {
+                "text": "Minister for Finance of Lithuania",
+                "type": "internal",
+                "page": "Ministry of Finance (Lithuania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 December 2020"
+          },
+          "primeminister": {
+            "text": "Ingrida Šimonytė",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ingrida Šimonytė"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Vilius Šapoka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vilius Šapoka"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Member of the Seimas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Seimas"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Panemunė",
+            "links": [
+              {
+                "text": "Panemunė",
+                "type": "internal",
+                "page": "Panemunė, Kaunas"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 November 2020"
+          },
+          "predecessor2": {
+            "text": "Aurelijus Veryga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aurelijus Veryga"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Multi-member"
+          },
+          "term_start3": {
+            "text": "14 November 2016"
+          },
+          "term_end3": {
+            "text": "12 November 2020"
+          },
+          "birth_date": {
+            "text": "August 4, 1981"
+          },
+          "birth_place": {
+            "text": "Kaunas, Lithuania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaunas"
+              },
+              {
+                "type": "internal",
+                "page": "Lithuania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Homeland Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Homeland Union"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Audrius Skaistys"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Kaunas University of Technology \nMykolas Romeris University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaunas University of Technology "
+              },
+              {
+                "type": "internal",
+                "page": "Mykolas Romeris University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "President approves makeup of Simonyte Cabinet",
+          "url": "https://www.delfi.lt/a/85932529",
+          "access-date": "2020-12-07",
+          "website": "DELFI",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education and early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Skaistė graduated from Kaunas University of Technology in 2010, receiving a bachelor's degree in Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kaunas University of Technology"
+                }
+              ]
+            },
+            {
+              "text": "She holds master's degree in Economics (2011) from Mykolas Romeris University, and a PhD in Social Sciences (2016).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mykolas Romeris University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She worked as an expert at the Lithuanian Social Market Development Institute."
+            },
+            {
+              "text": "Skaistė also is a Member of Lithuanian Riflemen's Union and Honorary Member of the Lithuanian Community of the Atlantic Treaty.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lithuanian Riflemen's Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.15min.lt/tema/gintare-skaiste-3557",
+          "title": "Gintarė Skaistė &#124; Tema",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 2005 Skaistė has been a member of the Homeland Union.",
+              "links": [
+                {
+                  "text": "Homeland Union",
+                  "type": "internal",
+                  "page": "Homeland Union (Lithuanian Conservatives)"
+                }
+              ]
+            },
+            {
+              "text": "Between 2007 and 2016 she was Kaunas City Councillor.",
+              "links": [
+                {
+                  "text": "Kaunas City Councillor",
+                  "type": "internal",
+                  "page": "Kaunas"
+                }
+              ]
+            },
+            {
+              "text": "In 2016 she was elected as Member of the Seimas of the Republic of Lithuania.",
+              "links": [
+                {
+                  "text": "Member of the Seimas of the Republic of Lithuania",
+                  "type": "internal",
+                  "page": "Seimas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Bank for Reconstruction and Development (EBRD), Ex-Officio Member of the Board of Governors (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Bank for Reconstruction and Development"
+              }
+            ]
+          },
+          {
+            "text": "European Stability Mechanism (ESM), Member of the Board of Governors (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Stability Mechanism"
+              }
+            ]
+          },
+          {
+            "text": "Nordic Investment Bank (NIB), Ex-Officio Member of the Board of Governors (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nordic Investment Bank"
+              }
+            ]
+          },
+          {
+            "text": "World Bank, Ex-Officio Member of the Board of Governors (since 2020)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "World Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "lt"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Aurelijus Veryga",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of the Seimas for Panemunė",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Vilius Šapoka",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Finance",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "lithuania-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "https://www.lrs.lt/sip/portal.show?p_r=35299&p_k=1&p_a=498&p_asm_id=71923"
+          }
+        ]
+      ]
+    }
+  ]
+}
